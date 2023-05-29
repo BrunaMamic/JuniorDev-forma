@@ -1,0 +1,31 @@
+.newDisplay{
+    color: rgb(255, 255, 255);
+    background-color: rgba(14, 40, 95, 0.87);
+
+    width: 30rem;
+    height: 35rem;
+    margin-left: 40px;
+    border-radius: 5%;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: baseline;
+}
+
+.content{
+    display: flex;
+    flex-direction: row;
+    align-items: baseline;
+    margin-bottom: 20px;
+}
+
+.titles{
+    padding-right: 25px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.data{
+    font-size: 17px;
+}

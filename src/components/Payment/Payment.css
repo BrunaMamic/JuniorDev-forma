@@ -1,0 +1,19 @@
+.pay{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    margin: 5px;
+    padding: 40px;
+    align-items: stretch;
+}
+
+.titlePay{
+    font-weight: bold;
+    font-size: 1.5rem;
+    color: rgb(35, 66, 133);
+}
+
+.choice{
+    font-size: 1.1rem;
+    color: rgb(8, 8, 8);
+}

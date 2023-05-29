@@ -1,0 +1,11 @@
+.text{
+    color:rgb(56, 56, 56);
+    font-size: 15px;
+}
+
+.check{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 10px;
+}

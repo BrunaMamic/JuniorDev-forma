@@ -1,0 +1,15 @@
+#botun {
+  height: 3rem;
+  width: 12rem;
+  color: rgb(255, 255, 255);
+  background-color: rgba(1, 14, 41, 0.87);
+  border-radius: 2%;
+  margin-top: 28px;
+}
+
+#botun:hover {
+  height: 3.5rem;
+  width: 12.5rem;
+  color: rgb(255, 255, 255);
+  background-color: rgba(8, 23, 67, 0.87)
+}
